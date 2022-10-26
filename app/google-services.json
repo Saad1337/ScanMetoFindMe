@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853938357471",
+    "project_id": "scanmetofindme",
+    "storage_bucket": "scanmetofindme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853938357471:android:bfd0a842d04629a1e7156a",
+        "android_client_info": {
+          "package_name": "com.example.android.scanmetofindme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853938357471-rtb0qnuc0b155rp9nomd2ip1uhqvkckf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Ihimx9rzyjSxRgXkpEFl8V-FI0tOaxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853938357471-rtb0qnuc0b155rp9nomd2ip1uhqvkckf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
